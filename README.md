@@ -1,10 +1,12 @@
 
  - 👋 Olá, Eu sou o @Claytonsobral27!
- - 🏢 Trabalho atualmente na empresa G+D
+ 
  - 📘  Estudando HTML5 CSS3 e JavaScript  
  - 🎬 🎮 Gosto de animes Games séries \o/
+ - 🏢 Trabalho atualmente na empresa
 
 
+  <a href="https://www.gi-de.com/en/"> <img alt="logoG+D"  src="https://www.vanillaplus.com/wp-content/uploads/2016/03/Giesecke_Devrient.logo_.jpg">
 
  
 
