@@ -18,9 +18,8 @@
    <img align="center" alt=narutoandando" heght="200" width="250" src="https://aslanurick.files.wordpress.com/2010/10/kyuubinaruto_rasengan-fx.gif">
   <img align="center" alt="-ClaytonHtMl5" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
    <img align="center" alt="Clayton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
    <img align="center" alt="Clayton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
+    <img align="center" alt="ClaytonPython height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png">
 </div>
   
   
