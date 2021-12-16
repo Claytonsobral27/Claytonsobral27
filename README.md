@@ -7,7 +7,7 @@
   
   <a href="https://www.gi-de.com/en/" target="_blank"/>  <img alt="logoG+D"  src="https://www.vanillaplus.com/wp-content/uploads/2016/03/Giesecke_Devrient.logo_.jpg">
 ---
-<div style="display:flex">
+<div style="display:block-inline">
 <div>
   <a href="https://github.com/Claytonsobral27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claytonsobral27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
