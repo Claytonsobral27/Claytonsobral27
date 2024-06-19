@@ -1,9 +1,9 @@
 
  * 👋 Olá, Eu sou o **@Claytonsobral27!**
- 
  * 📘  Estudando **HTML5 ,CSS3 ,JavaScript e Python** 
  * 🎬 🎮 Gosto de Animes,Games & Séries \o/
  * 🏢 Trabalho atualmente de  **Operation System Assistant na G+D Mobile Security**
+
 
 <br><br>
   <div align=center> 
