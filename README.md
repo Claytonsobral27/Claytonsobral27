@@ -4,9 +4,13 @@
  * 📘  Estudando **HTML5 ,CSS3 ,JavaScript e Python** 
  * 🎬 🎮 Gosto de Animes,Games & Séries \o/
  * 🏢 Trabalho atualmente de  **Operation System Assistant na G+D Mobile Security**
-  
+
+
+  <div align=center> 
   <a href="https://www.gi-de.com/en/" target="_blank"/>  <img alt="logoG+D"  src="https://www.vanillaplus.com/wp-content/uploads/2016/03/Giesecke_Devrient.logo_.jpg">
----
+  </a>
+   
+   ---
 
 
 ![snake gif](https://github.com/Claytonsobral27/Claytonsobral27/blob/output/github-contribution-grid-snake.gif)
