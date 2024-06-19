@@ -11,7 +11,6 @@
 
 ![snake gif](https://github.com/Claytonsobral27/Claytonsobral27/blob/output/github-contribution-grid-snake.gif)
 
-
 <div align="center">
   <a href="https://github.com/Claytonsobral27">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claytonsobral27&layout=compact&langs_count=7&theme=dracula"/>
