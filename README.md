@@ -7,7 +7,7 @@
   
   <a href="https://www.gi-de.com/en/" target="_blank"/>  <img alt="logoG+D"  src="https://www.vanillaplus.com/wp-content/uploads/2016/03/Giesecke_Devrient.logo_.jpg">
 ---
-
+![GitHub Snake Game](https://github.com/Claytonsobral27/workflow/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <a href="https://github.com/Claytonsobral27">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claytonsobral27&layout=compact&langs_count=7&theme=dracula"/>
