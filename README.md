@@ -1,7 +1,7 @@
 
  * Olá, Eu sou o *Clayton sobral**
  * Estudando Python <b>Análise de dados com *Pandas e numpy*</b>
- * Trabalho atualmente de  **Analista de Suport na G+D Mobile Security**
+ * Trabalho atualmente de  <b>**Análista de Suport na G+D Mobile Security**</b>
 
 
 <br><br>
