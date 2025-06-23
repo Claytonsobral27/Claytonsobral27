@@ -5,10 +5,7 @@
 
 
 <br><br>
-  <div align=center> 
-  <a href="https://www.gi-de.com/en/" target="_blank"/>  <img alt="logoG+D"  src="https://www.vanillaplus.com/wp-content/uploads/2016/03/Giesecke_Devrient.logo_.jpg">
-  </a>
-   
+
    ---
 
 
