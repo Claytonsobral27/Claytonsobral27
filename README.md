@@ -1,5 +1,5 @@
 
- * Olá, Eu sou o **@Claytonsobral27!**
+ * Olá, Eu sou o *Clayton sobral**
  * Estudando Python Anlise de dados com Pandas e numpy*
  * Trabalho atualmente de  **Analista de Suport na G+D Mobile Security**
 
